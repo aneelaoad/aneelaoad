@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aneela Oad</h1>
 <h3 align="center">Professional web & salesforce developer</h3>
+<img src= "https://www.canva.com/design/DAFQionDn60/VAmV0I6H0WMKoLdnRBL2bQ/edit?utm_content=DAFQionDn60&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="400px" >
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aneela-oad" alt="aneela-oad" /></a> </p>
 
