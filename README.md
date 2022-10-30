@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aneela Oad</h1>
 <h3 align="center">Professional web & salesforce developer</h3>
-<img src= "https://images.pexels.com/photos/7031696/pexels-photo-7031696.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width="400px" >
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aneela-oad" alt="aneela-oad" /></a> </p>
-
+<img src="https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/1094041/retina_1708x683_0823_Web_Animation_Lina_Newsletter-96a0bd0263be38abd3fac6fd7a75d5b9.png" 
+     width="100%" 
 <p align="left"> <a href="https://twitter.com/oadaneela" target="blank"><img src="https://img.shields.io/twitter/follow/oadaneela?logo=twitter&style=for-the-badge" alt="oadaneela" /></a> </p>
 
 - 📝 I regularly write articles on [latest web technologies like JS, React, Salesforce & Lightning Web Components](latest web technologies like JS, React, Salesforce & Lightning Web Components)
