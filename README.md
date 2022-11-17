@@ -36,6 +36,6 @@
 <p align="left">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aneela-oad&show_icons=true&locale=en&layout=compact" alt="aneela-oad" /></p>
 
-<p> <a  href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=aneela-oad&theme=tokyonight_duo&hide_border=true"/></a> </p>
+<p> <a  href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=aneela-oad&theme=tokyonight_duo&hide_border=true" /></a> </p>
 </p>
 
