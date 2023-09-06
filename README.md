@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/oadaneela" target="blank"><img src="https://img.shields.io/twitter/follow/oadaneela?logo=twitter&style=for-the-badge" alt="oadaneela" /></a> </p>
 
-- 🔭 I’m currently working on [Salesforce App](https://github.com/aneela-oad/sfdx-app.git)
+- 🔭 I’m currently working on [Salesforce App](https://github.com/aneelaoad/sfdx-app.git)
 
 - 🌱 I’m currently learning **Lightning Design System - LDS**
 
