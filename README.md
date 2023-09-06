@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/oadaneela" target="blank"><img src="https://img.shields.io/twitter/follow/oadaneela?logo=twitter&style=for-the-badge" alt="oadaneela" /></a> </p>
 
-- 🔭 I’m currently working on [Salesforce App](https://github.com/aneelaoad/sfdx-app.git)
+- 🔭 I’m currently working on [Bootcamp Project](https://github.com/aneelaoad/Cloud1-Bootcamp.git)
 
-- 🌱 I’m currently learning **Lightning Design System - LDS**
+- 🌱 I’m currently learning **Apex Design Patterns**
 
-- 💬 Ask me about **SASS, ReactJS, Apex, Salesforce & Lightning Web Components**
+- 💬 Ask me about **• Apex • SOQL • Lightning Web Component • Experience Cloud • Data Model • Sales Cloud**
 
 - 📫 How to reach me **aneelaoadd@gmail.com**
 
@@ -34,19 +34,7 @@
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
 <p align="left">
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=aneelaoad&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=aneelaoad&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=aneelaoad&show_icons=true" />
-</picture>
-
-   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aneelaoad&show_icons=true&locale=en&layout=compact" alt="aneelaoad" /></p>
-<p> <a  href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=aneelaoad&theme=vue" /></a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aneelaoad&show_icons=true&locale=en&layout=compact&hide_border=true&hide=html&show_icons=true&theme=buefy" alt="aneelaoad" /></p>
+<p> <a  href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=aneelaoad&theme=transparent&hide_border=true"  /></a> </p>
 </p>
 
