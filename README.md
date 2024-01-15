@@ -1,7 +1,9 @@
 <h1 align="center">Hello, I'm Aneela Oad</h1>
 
 
-<h3 align="center">PROFESSIONAL WEB & SALESFORCE DEVELOPER</h3>
+<h3 align="center"> Established Salesforce Pro</h3>
+
+Elevating businesses with Salesforce expertise – where experience meets innovation, and solutions come to life!
 <img src="https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/1094041/retina_1708x683_0823_Web_Animation_Lina_Newsletter-96a0bd0263be38abd3fac6fd7a75d5b9.png" 
      width="100%" >
 <p>Salesforce admin & developer, I specialize in custom applications. My life revolves around programming, coding, and designing. Solution-driven developer proficient at contributing highly collaborative work environment, finding solutions and customer satisfaction. </p>
@@ -15,16 +17,21 @@
 Feel free to explore these projects and let me know your thoughts! Your feedback is always appreciated.
 ## 🚀 Salesforce Tech Stack
 
-- **Apex**: Crafting robust backend logic for Salesforce applications.
-- **Lightning Web Components (LWC)**: Building dynamic and responsive user interfaces in Salesforce.
-- **Experience Cloud**: Creating engaging and tailored experiences for customers and partners.
-- **Marketing Cloud**: Powering personalized and targeted marketing campaigns.
-- **Data Cloud**: Unleashing the potential of data through Salesforce Data Cloud services.
+- **Apex:** Crafting robust backend logic for Salesforce applications.
+- **Lightning Web Components (LWC):** Building dynamic and responsive user interfaces in Salesforce.
+- **Experience Cloud:** Creating engaging and tailored experiences for customers and partners.
+- **Marketing Cloud:** Powering personalized and targeted marketing campaigns.
+- **Data Cloud:** Unleashing the potential of data through Salesforce Data Cloud services.
+- **Service Cloud:** Unleashing the potential of data through Salesforce Data Cloud services.
+- **Sales Cloud:** Leverage the power of Salesforce Sales Cloud services to optimize and enhance sales processes..
+- **SOQL & SOQL:** A query language for querying Salesforce databases and retrieving data.
+- **Salesforce Connect:** Allows integration with external data sources to access and use data in real-time within Salesforce.
+- **Salesforce AppExchange:** An online marketplace for third-party applications that extend the functionality of Salesforce.
 ## Tech Stack
 
-- 💻 Languages: Apex, JavaScript Java
-- 🚀 Frameworks:, Lightning Web Components,Sass, Bootstrap
-- 🛢️ Databases: SOQL, SQL
+- 💻 Languages: Apex, JavaScript, SOQL, SOSL 
+- 🚀 Frameworks:, Lightning Component Framework,Sass, Bootstrap & Lightning Design System
+- 🛢️ Databases: MySQL,Firebase, MongoDB
 - ⚙️ Tools: VS Code, Git, Postman, SOAP API
 
 
